@@ -79,3 +79,5 @@ streamlit run FND_UI.py
 -> bilstm_model.keras: Saved Bi-LSTM model file
 
 -> requirements.txt: Required Python packages
+
+-> image.png: A flowchart for Model development procedure
