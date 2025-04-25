@@ -81,3 +81,7 @@ streamlit run FND_UI.py
 -> requirements.txt: Required Python packages
 
 -> image.png: A flowchart for Model development procedure
+
+-> bilstm_model.keras: Model developed
+
+-> tokenizer.pkl: tokens created
